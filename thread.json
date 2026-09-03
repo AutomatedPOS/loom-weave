@@ -5,7 +5,7 @@
   "actualStart": "2026-09-03",
   "state": "active",
   "isPartOf": "",
-  "justDid": "Standalone operation root. Card is generated from this node.",
+  "justDid": "README card removed. Status lives on this node.",
   "next": "Receive the slot spec once it proves out in `loom-weave-godot`.",
   "sourceVerified": false
 }

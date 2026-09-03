@@ -1,14 +1,5 @@
 # loom-weave
 
-<!-- card:start -->
-
-## Card
-
-**Just did.** Standalone operation root. Card is generated from this node.
-**Next.** Receive the slot spec once it proves out in `loom-weave-godot`.
-
-<!-- card:end -->
-
 Base render contract for Loom.
 
 Implementations live in separate repos named `loom-weave-<engine>`
