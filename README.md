@@ -1,13 +1,13 @@
 # loom-weave
 
+<!-- card:start -->
+
 ## Card
 
-**Just did.** Promote-then-comply rule replaced the OPEN line on the base render class.
+**Just did.** Standalone operation root. Card is generated from this node.
 **Next.** Receive the slot spec once it proves out in `loom-weave-godot`.
-**Waiting on.** A ruling on which node carries close-out fields in a repo with no tree — this one included.
 
-Hand-written. This repo has no `thread.json`, so `card.py` has no node
-to read here. That is the open item above.
+<!-- card:end -->
 
 Base render contract for Loom.
 
@@ -17,6 +17,11 @@ a new tool.
 
 No renderer code in this repo. The schema lives in `loom-warp`. Trees
 live in `loom` (Loom's own) and `loom-apollo-13` (probe).
+
+Tree: `thread.json` at the root, type `operation`, empty `isPartOf`.
+Operations do not end. Same root shape as `loom-weave-godot`. No
+child nodes here; a spec that proves out in a weave is promoted up
+as prose and contract, not as a tree.
 
 How this repo receives contracts: work happens in a weave
 (`loom-weave-godot` first). When a shape proves out there, it is

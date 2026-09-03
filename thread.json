@@ -1,0 +1,11 @@
+{
+  "guid": "56d26031-4e71-4970-9d30-bf72ba413e06",
+  "name": "loom-weave",
+  "type": "operation",
+  "actualStart": "2026-09-03",
+  "state": "active",
+  "isPartOf": "",
+  "justDid": "Standalone operation root. Card is generated from this node.",
+  "next": "Receive the slot spec once it proves out in `loom-weave-godot`.",
+  "sourceVerified": false
+}
