@@ -4,7 +4,10 @@
 
 **Just did.** Promote-then-comply rule replaced the OPEN line on the base render class.
 **Next.** Receive the slot spec once it proves out in `loom-weave-godot`.
-**Context.** Renderer build. No tree here. Node: `loom-weave-godot` root.
+**Waiting on.** A ruling on which node carries close-out fields in a repo with no tree — this one included.
+
+Hand-written. This repo has no `thread.json`, so `card.py` has no node
+to read here. That is the open item above.
 
 Base render contract for Loom.
 
